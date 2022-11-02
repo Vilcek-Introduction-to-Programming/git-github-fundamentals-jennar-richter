@@ -1,0 +1,20 @@
+Homework assignment
+
+1. Open a pull request to let me know that you’ve finished this course (You can just edit this page and commit to a pull request).
+
+I updated the README file and submitted a pull request.
+
+2. Create a new markdown or text file in this repository. Let me know what you learned and what you are still confused about.
+
+I learned more about terms like branches and pull request which I have heard of, but I did not previously know much about. I still find the Github site a bit confusing
+to navigate, but I will probably get used to it as I use it more.
+
+3. Describe one of the ways that Wilson et. al. suggest is a good practice for computational reproducibility and how a tool like R and/or GitHub can be used.
+
+Wilson et al. mentions keeping track of changes as a good practice for computational reproducibility. This can be easily done using Github. Whenever you make changes to
+your code in R, you can track those changes in Github by submitting a pull request. This allows for better reproducibility of your data because others can see changes 
+made to the code and they can go back and look at older versions if something does not seem right.
+
+4. Save the file, commit the changes, and push the homework to the GitHub repository for the homework.
+
+Done:)
